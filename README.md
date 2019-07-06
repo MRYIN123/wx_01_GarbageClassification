@@ -1,0 +1,2 @@
+# wx_01_GarbageClassification
+微信小程序demo
